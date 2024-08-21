@@ -1,0 +1,26 @@
+@font-face {
+	font-family: 'Verdana';
+	src: url('/assets/fonts/verdana-bold.woff2') format('woff2'),
+			url('/assets/fonts/verdana-bold.woff') format('woff');
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Verdana';
+	src: url('/assets/fonts/verdana.woff2') format('woff2'),
+			url('/assets/fonts/verdana.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'zing-rust';
+	src: url('/assets/fonts/zing-rust-demo.woff2') format('woff2'),
+			url('/assets/fonts/zing-rust-demo.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}

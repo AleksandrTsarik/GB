@@ -1,0 +1,244 @@
+{
+  "mainVideo": "https://www.youtube.com/embed/uCNWuSbPnt4?autoplay=1&amp;loop=1&amp;enablejsapi=1&amp;playerapiid=featuredytplayer&amp;controls=0&amp;modestbranding=1&amp;rel=0&amp;showinfo=0&amp;color=white&amp;iv_load_policy=3&amp;theme=light&amp;wmode=transparent&amp;playlist=uCNWuSbPnt4&amp;mute=1",
+  "videoBottom": "https://www.youtube.com/embed/uCNWuSbPnt4?autoplay=1&amp;loop=1&amp;enablejsapi=1&amp;playerapiid=featuredytplayer&amp;controls=0&amp;modestbranding=1&amp;rel=0&amp;showinfo=0&amp;color=white&amp;iv_load_policy=3&amp;theme=light&amp;wmode=transparent&amp;playlist=uCNWuSbPnt4&amp;mute=1",
+  "tabs": [
+    {
+      "title": "Интервью",
+      "value": "interview",
+      "type": "gallery",
+      "items": [
+        {
+          "img": "https://cdnstatic.rg.ru/uploads/images/165/39/76/vesna.jpg"
+        },
+        {
+          "video": "https://www.youtube.com/embed/9Z3iVW9rU6o?si=3o6PINifCCjrUqz2"
+        }
+      ]
+    },
+    {
+      "title": "Спорт",
+      "value": "sport",
+      "type": "gallery",
+      "items": [
+        {
+          "video": "https://www.youtube.com/embed/9Z3iVW9rU6o?si=3o6PINifCCjrUqz2"
+        },
+        {
+          "img": "https://sneg.top/uploads/posts/2023-04/1681405251_sneg-top-p-kartinki-rannei-vesni-krasivie-priroda-vko-26.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Shorts",
+      "value": "shorts",
+      "type": "gallery",
+      "items": [
+        {
+          "img": "https://cdnstatic.rg.ru/uploads/images/165/39/76/vesna.jpg"
+        },
+        {
+          "video": "https://www.youtube.com/embed/9Z3iVW9rU6o?si=3o6PINifCCjrUqz2"
+        }
+      ]
+    },
+    {
+      "title": "Reels",
+      "value": "reels",
+      "type": "gallery",
+      "items": [
+        {
+          "video": "https://www.youtube.com/embed/9Z3iVW9rU6o?si=3o6PINifCCjrUqz2"
+        },
+        {
+          "img": "https://sneg.top/uploads/posts/2023-04/1681405251_sneg-top-p-kartinki-rannei-vesni-krasivie-priroda-vko-26.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Бизнес",
+      "value": "business",
+      "type": "gallery",
+      "items": [
+        {
+          "img": "https://cdnstatic.rg.ru/uploads/images/165/39/76/vesna.jpg"
+        },
+        {
+          "video": "https://www.youtube.com/embed/9Z3iVW9rU6o?si=3o6PINifCCjrUqz2"
+        }
+      ]
+    },
+    {
+      "title": "Обзоры",
+      "value": "reviews",
+      "type": "gallery",
+      "items": [
+        {
+          "video": "https://www.youtube.com/embed/9Z3iVW9rU6o?si=3o6PINifCCjrUqz2"
+        },
+        {
+          "img": "https://sneg.top/uploads/posts/2023-04/1681405251_sneg-top-p-kartinki-rannei-vesni-krasivie-priroda-vko-26.jpg"
+        }
+      ]
+    }
+  ],
+  "portfolio": [
+    {
+      "title": "Интервью",
+      "value": "interview",
+      "type": "slider",
+      "items": [
+        {
+          "title": "Название кейса 1.1",
+          "customer": "Андрей Сапунов",
+          "task": "Создание видероликов для интервью",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+          "video": "https://www.youtube.com/embed/9Z3iVW9rU6o?si=3o6PINifCCjrUqz2"
+        },
+        {
+          "title": "Название кейса 1.2",
+          "customer": "Андрей Сапунов",
+          "task": "Создание видероликов для интервью",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+          "video": "https://www.youtube.com/embed/9Z3iVW9rU6o?si=3o6PINifCCjrUqz2"
+        }
+      ]
+    },
+    {
+      "title": "Спорт",
+      "value": "sport",
+      "type": "slider",
+      "items": [
+        {
+          "title": "Название кейса 2.1",
+          "customer": "Андрей Сапунов",
+          "task": "Создание видероликов для интервью",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+          "video": "https://www.youtube.com/embed/9Z3iVW9rU6o?si=3o6PINifCCjrUqz2"
+        },
+        {
+          "title": "Название кейса 2.2",
+          "customer": "Андрей Сапунов",
+          "task": "Создание видероликов для интервью",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+          "video": "https://www.youtube.com/embed/9Z3iVW9rU6o?si=3o6PINifCCjrUqz2"
+        }
+      ]
+    },
+    {
+      "title": "Shorts",
+      "value": "shorts",
+      "type": "slider",
+      "items": [
+        {
+          "title": "Название кейса 3.1",
+          "customer": "Андрей Сапунов",
+          "task": "Создание видероликов для интервью",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+          "video": "https://www.youtube.com/embed/9Z3iVW9rU6o?si=3o6PINifCCjrUqz2"
+        },
+        {
+          "title": "Название кейса 3.2",
+          "customer": "Андрей Сапунов",
+          "task": "Создание видероликов для интервью",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+          "video": "https://www.youtube.com/embed/9Z3iVW9rU6o?si=3o6PINifCCjrUqz2"
+        }
+      ]
+    },
+    {
+      "title": "Reels",
+      "value": "reels",
+      "type": "slider",
+      "items": [
+        {
+          "title": "Название кейса 4.1",
+          "customer": "Андрей Сапунов",
+          "task": "Создание видероликов для интервью",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+          "video": "https://www.youtube.com/embed/9Z3iVW9rU6o?si=3o6PINifCCjrUqz2"
+        },
+        {
+          "title": "Название кейса 4.2",
+          "customer": "Андрей Сапунов",
+          "task": "Создание видероликов для интервью",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+          "video": "https://www.youtube.com/embed/9Z3iVW9rU6o?si=3o6PINifCCjrUqz2"
+        }
+      ]
+    },
+    {
+      "title": "Бизнес",
+      "value": "business",
+      "type": "slider",
+      "items": [
+        {
+          "title": "Название кейса 5.1",
+          "customer": "Андрей Сапунов",
+          "task": "Создание видероликов для интервью",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+          "video": "https://www.youtube.com/embed/9Z3iVW9rU6o?si=3o6PINifCCjrUqz2"
+        },
+        {
+          "title": "Название кейса 5.2",
+          "customer": "Андрей Сапунов",
+          "task": "Создание видероликов для интервью",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+          "video": "https://www.youtube.com/embed/9Z3iVW9rU6o?si=3o6PINifCCjrUqz2"
+        }
+      ]
+    },
+    {
+      "title": "Обзоры",
+      "value": "reviews",
+      "type": "slider",
+      "items": [
+        {
+          "title": "Название кейса 6.1",
+          "customer": "Андрей Сапунов",
+          "task": "Создание видероликов для интервью",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+          "video": "https://www.youtube.com/embed/9Z3iVW9rU6o?si=3o6PINifCCjrUqz2"
+        },
+        {
+          "title": "Название кейса 6.2",
+          "customer": "Андрей Сапунов",
+          "task": "Создание видероликов для интервью",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+          "video": "https://www.youtube.com/embed/9Z3iVW9rU6o?si=3o6PINifCCjrUqz2"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "title": "Заявка",
+      "value": 1,
+      "description": "Напишите нам, озвучьте свою идею, свои задумки, а мы постараемся воплотить их в жизнь!"
+    },
+    {
+      "title": "Договор",
+      "value": 2,
+      "description": "Напишите нам, озвучьте свою идею, свои задумки, а мы постараемся воплотить их в жизнь!"
+    },
+    {
+      "title": "Смета",
+      "value": 3,
+      "description": "Напишите нам, озвучьте свою идею, свои задумки, а мы постараемся воплотить их в жизнь!"
+    },
+    {
+      "title": "Съемка",
+      "value": 4,
+      "description": "Напишите нам, озвучьте свою идею, свои задумки, а мы постараемся воплотить их в жизнь!"
+    },
+    {
+      "title": "Монтаж",
+      "value": 5,
+      "description": "Напишите нам, озвучьте свою идею, свои задумки, а мы постараемся воплотить их в жизнь!"
+    },
+    {
+      "title": "Результат",
+      "value": 6,
+      "description": "Напишите нам, озвучьте свою идею, свои задумки, а мы постараемся воплотить их в жизнь!"
+    }
+  ]
+}
